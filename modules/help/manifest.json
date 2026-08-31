@@ -1,0 +1,9 @@
+{
+  "name": "Help",
+  "icon": "📖",
+  "description": "The manual: what the studio is, how the audio engine and plugins work, first-time setup, a detailed guide to every mode from CW to the Online Link, hooking up a real radio, troubleshooting, on-air rules — and full credits to the people whose work and designs this studio stands on.",
+  "version": "1.0.0",
+  "order": 99,
+  "entry": "module.js",
+  "author": "Ham Radio Web Studio"
+}

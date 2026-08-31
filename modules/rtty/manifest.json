@@ -1,0 +1,9 @@
+{
+  "name": "RTTY",
+  "icon": "⌨",
+  "description": "45.45 Bd Baudot FSK, TX + RX",
+  "version": "1.0.0",
+  "order": 2,
+  "entry": "module.js",
+  "author": "Ham Radio Web Studio"
+}

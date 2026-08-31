@@ -1,0 +1,9 @@
+{
+  "name": "Fax",
+  "icon": "📠",
+  "description": "Radiofax receiver and sender: WEFAX weather charts (IOC 576/288, the 1500/2300 Hz FM subcarrier at 120 LPM), Group 1 analog phone fax (ITU T.2 — the pre-modem office machine at 1300/2100 Hz, 180 LPM), and a wideband wire preset. Quadrature FM discriminator, start/stop tone automation, slant and phase trims, scrolling paper with PNG save, test-page TX and a pure-math self-test.",
+  "version": "1.0.0",
+  "order": 5,
+  "entry": "module.js",
+  "author": "Ham Radio Web Studio"
+}

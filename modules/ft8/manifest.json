@@ -1,0 +1,9 @@
+{
+  "name": "FT8",
+  "icon": "⏱",
+  "description": "15 s cycles, sync detector (beta)",
+  "version": "0.5.0",
+  "order": 5,
+  "entry": "module.js",
+  "author": "Ham Radio Web Studio"
+}

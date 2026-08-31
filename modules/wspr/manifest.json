@@ -1,0 +1,3 @@
+{ "name": "WSPR TX", "icon": "🌱",
+  "description": "K1JT's Weak Signal Propagation Reporter, transmit side: callsign/grid/power packed to 50 bits, K=32 rate-1/2 convolutional FEC, bit-reversal interleave, the 162-bit sync vector, 4-FSK 1.4648 Hz tones for 110.6 s — fired 1 s into the even UTC minute. Arm as a repeating beacon, send untimed for tests, or save a 12 kHz WAV. Decodable 28 dB below the noise; wsprnet.org draws the map.",
+  "version": "1.0.0", "order": 6, "entry": "module.js", "author": "Ham Radio Web Studio" }

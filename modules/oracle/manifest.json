@@ -1,0 +1,3 @@
+{ "name": "Prop Oracle", "icon": "🔮",
+  "description": "Heuristics guess; antennas know. Scores every 15-second FT8 slot for coherent-tone energy above the noise median on the band your rig feeds it, builds per-band sparkline history, rides the solar dashboard's SFI/Kp alongside, and calls out when measurement and prophecy disagree — surprise openings included.",
+  "version": "1.0.0", "order": 7, "entry": "module.js", "author": "Ham Radio Web Studio" }

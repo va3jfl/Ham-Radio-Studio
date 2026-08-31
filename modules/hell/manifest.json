@@ -1,0 +1,9 @@
+{
+  "name": "Hellschreiber",
+  "icon": "𝌆",
+  "description": "Feld Hell — Rudolf Hell's 1929 fuzzy mode: text transmitted as literal pixels, column by column at 245 half-pixels/second, printed on a scrolling paper strip and decoded by eye. No bit decisions anywhere, so weak signals print faint and fuzzy instead of garbled. Classic double-line asynchronous display, shaped keying, self-test loopback.",
+  "version": "1.0.0",
+  "order": 3,
+  "entry": "module.js",
+  "author": "Ham Radio Web Studio"
+}

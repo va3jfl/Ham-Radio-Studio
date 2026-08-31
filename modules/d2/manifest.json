@@ -1,0 +1,3 @@
+{ "name": "HRWS-D2", "icon": "🌅",
+  "description": "Progressive image transmission: a Haar wavelet pyramid puts a recognizable thumbnail on screen in the first second, then detail layers sharpen it for as long as you listen. Deliberately no FEC — a lost packet is softer focus, never garbage. Stop anytime, keep everything. 256×192 luminance, zero-run coding, 4-FSK 500 Bd CRC packets.",
+  "version": "1.0.0", "order": 5, "entry": "module.js", "author": "Ham Radio Web Studio" }

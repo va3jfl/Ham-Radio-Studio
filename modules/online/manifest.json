@@ -1,0 +1,9 @@
+{
+  "name": "Online Link",
+  "icon": "\ud83c\udf10",
+  "description": "Point-to-point Opus audio link between two studios \u2014 create a link, send the URL to a friend, pick TX or RX, and every mode flows online. Optional channel-conditions simulator (noise floor, QSB fading, QRN crashes, hum, filters) plus a full virtual-rig propagation mode: live NOAA solar data, your two locations, band, power and antennas decide whether the signal makes the trip. Learn and experiment for hours without putting a single watt on the air.",
+  "version": "1.1.1",
+  "order": 0,
+  "entry": "module.js",
+  "author": "Ham Radio Web Studio"
+}

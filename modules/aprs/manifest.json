@@ -1,0 +1,9 @@
+{
+  "name": "APRS",
+  "icon": "\ud83d\udccd",
+  "description": "Soundcard APRS station: Bell 202 AFSK 1200 Bd, AX.25 UI frames, position beacons with your symbol and comment, messages with auto-ACK, status. RX decodes plain / compressed / Mic-E / object reports into a station list with distance, bearing and a radar plot. WAV in/out, loopback lab, twist-tolerant demod.",
+  "version": "1.0.0",
+  "order": 7,
+  "entry": "module.js",
+  "author": "Ham Radio Web Studio"
+}

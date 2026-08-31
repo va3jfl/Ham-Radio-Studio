@@ -1,0 +1,9 @@
+{
+  "name": "PSK31",
+  "icon": "◒",
+  "description": "Varicode BPSK narrowband text",
+  "version": "1.0.0",
+  "order": 3,
+  "entry": "module.js",
+  "author": "Ham Radio Web Studio"
+}

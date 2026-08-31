@@ -1,0 +1,9 @@
+{
+  "name": "QAM File Link",
+  "icon": "⬡",
+  "description": "One-way OFDM/QAM file transfer — DMT engine ported from audiomodem (VA3JFL): QPSK–4096-QAM, RS(255,223) FEC, pilots + SFO tracking, callsign beacon lock. 8 profiles from 500 Hz / SSB 2.4 kHz through NBFM, 9k6-jack and WBFM to stereo-bonded cable, 96 k and 192 kHz — ~0.5 kbit/s to ~1.3 Mbit/s measured.",
+  "version": "1.0.0",
+  "order": 6,
+  "entry": "module.js",
+  "author": "Ham Radio Web Studio"
+}

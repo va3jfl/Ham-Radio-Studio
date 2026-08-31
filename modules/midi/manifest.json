@@ -1,0 +1,3 @@
+{ "name": "MIDI Link", "icon": "🎼",
+  "description": "HRWS-M1: live MIDI over SSB — the score flies in 5/10 s bars, the receiver buffers one bar and plays a seamless reconstruction on a hand-rolled browser GM synth. Bar headers ride the D1 Viterbi chain; the notes are fixed-width records with NO FEC on purpose, so noise makes a drunk orchestra (wrong pitch, wrong beat, wrong instrument) instead of silence. Armour mode inverts the bargain: drop, never slur. Save what you heard as a real .mid. Practical use: none — we are hams.",
+  "version": "1.0.0", "order": 5, "entry": "module.js", "author": "Ham Radio Web Studio" }

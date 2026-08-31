@@ -1,0 +1,9 @@
+{
+  "name": "VLF Radio",
+  "icon": "\ud83e\uddf2",
+  "description": "The soundcard IS the radio: a coil on line-in receives the basement of the spectrum. Full-band SDR spectrum + waterfall with click-to-tune, CW/USB/LSB/AM demodulation at selectable bandwidth, a mains-hum comb filter, and a station guide from Alpha and the MSK giants to SAQ Grimeton and the 60/77.5 kHz time stations (192 k soundcards reach them). TX side keys carrier, CW and QRSS for magnetic-induction experiments \u2014 across the room barefoot, farther with an amp and a serious loop.",
+  "version": "1.0.1",
+  "order": 9,
+  "entry": "module.js",
+  "author": "Ham Radio Web Studio"
+}

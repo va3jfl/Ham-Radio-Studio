@@ -1,0 +1,9 @@
+{
+  "name": "Digital Voice",
+  "icon": "\ud83c\udf99\ufe0f",
+  "description": "HRWS-DV: FreeDV-style open digital voice, studio-to-studio. LPC vocoder at 1600/2600/3200 bit/s, Golay(24,12) on the critical bits, DQPSK/D8PSK multicarrier for SSB and FM voice channels or 4FSK for the 9k6 data jack. PTT, PTT lock and VOX, FreeDV SNR squelch, live mic to rig, WAV in/out, loopback lab.",
+  "version": "1.1.1",
+  "order": 8,
+  "entry": "module.js",
+  "author": "Ham Radio Web Studio"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "NBTV",
+  "icon": "\ud83d\udcfa",
+  "description": "Mechanical television, TX + RX (experimental)",
+  "version": "1.7.2",
+  "order": 6,
+  "entry": "module.js",
+  "author": "Ham Radio Web Studio \u00b7 signal format by VA3JFL"
+}

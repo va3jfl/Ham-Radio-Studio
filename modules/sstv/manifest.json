@@ -1,0 +1,9 @@
+{
+  "name": "SSTV",
+  "icon": "🖼",
+  "description": "SSTV studio — Martin M1/M2, Scottie S1/S2, Robot 36/72, PD 50/90/120/160/180 TX+RX (PD 120 = the ISS mode) with VIS, time-compressed 2-8x (FM turbo / resample), auto-detect, VOX live RX, WAV in/out, cleanup DSP",
+  "version": "1.0.0",
+  "order": 4,
+  "entry": "module.js",
+  "author": "Ham Radio Web Studio"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "CW / Morse",
+  "icon": "𝄒𝄐",
+  "description": "Keyer, encoder and live decoder",
+  "version": "1.0.0",
+  "order": 1,
+  "entry": "module.js",
+  "author": "Ham Radio Web Studio"
+}
